@@ -7,7 +7,7 @@
      that represent the state of the realtime controllers, the joints
      and the actuators.
   </description>
-  <maintainer email="wim@hidof.com">Wim Meeussen</maintainer>
+  <maintainer email="ros-orphaned-packages@googlegroups.com">ROS Orphaned Package Maintainers</maintainer>
   <license>BSD</license>
 
   <url>http://ros.org/wiki/pr2_mechanism_msgs</url>
