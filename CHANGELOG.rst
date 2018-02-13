@@ -2,8 +2,8 @@
 Changelog for package pr2_mechanism_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.8.2 (2018-02-13)
+------------------
 * change maintainer to ROS orphaned package maintainer
 * Contributors: Kei Okada
 
